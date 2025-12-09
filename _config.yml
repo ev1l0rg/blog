@@ -1,7 +1,7 @@
 title: "Team Blog"
 description: "Thoughts, notes, and experiments."
-baseurl: "" # For user site, leave empty
-url: "https://ev1l0rg.github.io/blog"
+baseurl: "blog" # For user site, leave empty
+url: "https://ev1l0rg.github.io/"
  
 theme: minima
  
